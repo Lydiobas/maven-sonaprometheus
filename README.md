@@ -413,6 +413,6 @@ Copy your Grafana Public IP Address and paste on the browser = http:://GrafanaSe
      - Click on Load (The one right beside the link you just pasted)
      - Scrol down to "Prometheus" and select the "Data Source" you defined ealier which is "Prometheus"
      - CLICK on "Import"
-     - Save
+     - Save continue
 Refresh your Grafana Dashbaord
 Click on the "Drop Down" for "Host" and select any of the "Instances(IP)"
