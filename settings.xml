@@ -83,7 +83,7 @@ under the License.
         <activeByDefault>true</activeByDefault>
       </activation>
       <properties>
-        <sonar.host.url>http://50.19.15.141:8081/repository/prestigious-snapshot/</url>
+         <sonar.host.url>http://50.19.15.141:8081/repository/prestigious-snapshot/</sonar.host.url>
       </properties>
     </profile>
     <!--End SonarQube/Sonar Profile-->
